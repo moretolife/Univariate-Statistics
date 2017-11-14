@@ -1,6 +1,8 @@
 # Univariate-Statistics
 
-You will find Publish Rpubs file [here](https://rpubs.com/more11neha/UnivariateStatistics)
+You will find Published report of this project [here](https://rpubs.com/more11neha/UnivariateStatistics) in Rpubs.
+
+
 Exploring univariate statistics in R
 
 This mini project involves learning the basic terminologies of univariate statistics in R.
